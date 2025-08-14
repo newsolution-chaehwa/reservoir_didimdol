@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "user": "local_admin",
+  "password": "solution24!",
+  "port": 3306,
+  "database": "Reservoir",
+  "timezone": "Asia/Seoul"
+}

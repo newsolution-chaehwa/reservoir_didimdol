@@ -1,0 +1,830 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [129.18294334549407, 35.5453074572642]
+      },
+      "properties": {
+        "UFID": "100035905088C026126673f7216154f8d",
+        "NAME": "대암대우량관측소",
+        "SERV": "OSD000",
+        "BJCD": "3171025300",
+        "SCLS": "C0266330",
+        "FMTA": "S2118567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [129.03513254662383, 35.09625732620662]
+      },
+      "properties": {
+        "UFID": "100035913062C026184dce8aba3bc4ac8",
+        "NAME": "조위관측소부산",
+        "SERV": "OSD000",
+        "BJCD": "2611013600",
+        "SCLS": "C0266330",
+        "FMTA": "S2112797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.85449078116554, 37.07682170557873]
+      },
+      "properties": {
+        "UFID": "100037716065C0261fc66625c883c467b",
+        "NAME": "국가지하수관측소",
+        "SERV": "OSD000",
+        "BJCD": "4313038500",
+        "SCLS": "C0266330",
+        "FMTA": "S2112797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.88298161096836, 37.16968211142164]
+      },
+      "properties": {
+        "UFID": "100037716036C02618a480dfc69ea4b67",
+        "NAME": "국가지하수관측소.원주귀래지하수관측소",
+        "SERV": "OSD000",
+        "BJCD": "4213036000",
+        "SCLS": "C0266330",
+        "FMTA": "S2112797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [129.11641091099813, 37.550411507159815]
+      },
+      "properties": {
+        "UFID": "100037905075C0261a9fb9d679dc6490f",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4217012300",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.91080269993658, 37.18052244248581]
+      },
+      "properties": {
+        "UFID": "100037716027C0261f3acc8fc92c7453d",
+        "NAME": "운남저수지수위관측소",
+        "SERV": "OSD001",
+        "BJCD": "4213036000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.85638218500256, 37.22620715538705]
+      },
+      "properties": {
+        "UFID": "100037716005C0261cc83d8af702b47cd",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4213036000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.74761165150952, 37.20595628434891]
+      },
+      "properties": {
+        "UFID": "100037715020C0261d13e6355d28d48ab",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4213035000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.68311403670776, 35.40188512369154]
+      },
+      "properties": {
+        "UFID": "100035711038C0261d3b53c03f9624e4f",
+        "NAME": "마천수위우량관측소",
+        "SERV": "OSD001",
+        "BJCD": "4887031000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.90358453547748, 35.333714949984696]
+      },
+      "properties": {
+        "UFID": "100035712067C0261724b34cc47a14929",
+        "NAME": "수위조절관측소",
+        "SERV": "OSD001",
+        "BJCD": "4886037000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.99592135488368, 35.32002954213445]
+      },
+      "properties": {
+        "UFID": "100035712080C0261f6616d04706d473b",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4886038000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.21627204969604, 35.30150928234908]
+      },
+      "properties": {
+        "UFID": "100035809079C026173bde0f9174d44e3",
+        "NAME": "석천소류지",
+        "SERV": "OSD001",
+        "BJCD": "4872034000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.15902739958025, 35.01708526118133]
+      },
+      "properties": {
+        "UFID": "100035813097C026125c44e5d7fc641d1",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4824031000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.3590818288381, 35.527513197703556]
+      },
+      "properties": {
+        "UFID": "100035806085C0261d6d4ad0ef5974f39",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4889039000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.76519375533084, 35.56495016591694]
+      },
+      "properties": {
+        "UFID": "100035808071C02612c79165683324129",
+        "NAME": "수위관측소",
+        "SERV": "OSD001",
+        "BJCD": "4827032000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [129.0011328024402, 36.88333890293799]
+      },
+      "properties": {
+        "UFID": "100036901041C02615ea29c1cae00416a",
+        "NAME": "소천수위관측소",
+        "SERV": "OSD001",
+        "BJCD": "4792035000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [129.45317976239363, 36.67759524651845]
+      },
+      "properties": {
+        "UFID": "100036906029C026166c062055bee47eb",
+        "NAME": "후포항조위관측소",
+        "SERV": "OSD001",
+        "BJCD": "4793038000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.3583515767356, 35.613591913535934]
+      },
+      "properties": {
+        "UFID": "100035806055C0261db0d984fb29f42c6",
+        "NAME": "수질오염상시감시적포측정소",
+        "SERV": "OSD001",
+        "BJCD": "4889038000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.27769697629415, 35.72915926061671]
+      },
+      "properties": {
+        "UFID": "100035806002C0261a6c8a3f83d7640f6",
+        "NAME": "수위관측소",
+        "SERV": "OSD001",
+        "BJCD": "4783025300",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.82217713421733, 36.16124980011912]
+      },
+      "properties": {
+        "UFID": "100036816033C0261e2f1bc6e64fc420a",
+        "NAME": "동곡2수위국",
+        "SERV": "OSD001",
+        "BJCD": "4772037000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.76262335240273, 35.61965693910141]
+      },
+      "properties": {
+        "UFID": "100035808051C02617257a11cb637489c",
+        "NAME": "청도수위관측소",
+        "SERV": "OSD001",
+        "BJCD": "4782025300",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.7438506261758, 34.533567687295076]
+      },
+      "properties": {
+        "UFID": "100034707090C0261636a21c8bc9b4848",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4613034000",
+        "SCLS": "C0266331",
+        "FMTA": "S2112297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.42855114708811, 35.275240781677795]
+      },
+      "properties": {
+        "UFID": "100035710088C02618872a0467f5e47cb",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4673035000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.47196688573563, 35.26909436974752]
+      },
+      "properties": {
+        "UFID": "100035710099C0261a74c0e6f657a4a08",
+        "NAME": "천은저수지수위관측소",
+        "SERV": "OSD001",
+        "BJCD": "4673035000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.30854041025034, 34.377688149224426]
+      },
+      "properties": {
+        "UFID": "100034610043C0261b65c847eb50140da",
+        "NAME": "국립해양조사원진도조위관측소",
+        "SERV": "OSD001",
+        "BJCD": "4690033000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.39795444369739, 35.35536468642044]
+      },
+      "properties": {
+        "UFID": "100035710056C026190ec049768114353",
+        "NAME": "마곡저수지",
+        "SERV": "OSD001",
+        "BJCD": "4519032000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.69699023710588, 35.817168807465755]
+      },
+      "properties": {
+        "UFID": "100035703078C02617d535d7239c84e29",
+        "NAME": "금강홍수통제소원통사관측소",
+        "SERV": "OSD001",
+        "BJCD": "4573034000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.01413546186693, 35.50389372131172]
+      },
+      "properties": {
+        "UFID": "100035705091C02615dc7d6ccd2d74f36",
+        "NAME": "쌍치2수위국",
+        "SERV": "OSD001",
+        "BJCD": "4577036000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.12474302064183, 35.73978850778425]
+      },
+      "properties": {
+        "UFID": "100035705005C02618834d926814848fb",
+        "NAME": "구이저수지",
+        "SERV": "OSD001",
+        "BJCD": "4571035000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.33087784216345, 35.62171190231016]
+      },
+      "properties": {
+        "UFID": "100035706054C02618cc7fc453c944bfc",
+        "NAME": "천동제",
+        "SERV": "OSD001",
+        "BJCD": "4575034000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.43051939753707, 35.53114846405961]
+      },
+      "properties": {
+        "UFID": "100035706088C0261c612cdf0bb264315",
+        "NAME": "용평제",
+        "SERV": "OSD001",
+        "BJCD": "4519040000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.48536835028322, 35.63479295614238]
+      },
+      "properties": {
+        "UFID": "100035706050C0261ad2ac475e29642a1",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4574025000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.26569850045446, 35.73029206895933]
+      },
+      "properties": {
+        "UFID": "100035706001C0261dff7da39cceb445f",
+        "NAME": "신전저수지",
+        "SERV": "OSD001",
+        "BJCD": "4575038000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.00870275341106, 36.154334575656435]
+      },
+      "properties": {
+        "UFID": "100036713031C02618b0a0ae226474058",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4423025000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.09745440502562, 36.2315719960566]
+      },
+      "properties": {
+        "UFID": "100036713004C0261cc5f30e6e99e4f89",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4423032000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.03275243068033, 36.235459892275664]
+      },
+      "properties": {
+        "UFID": "100036713002C02619ac84e1281e74828",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4423032000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.73769229564105, 37.1571638524437]
+      },
+      "properties": {
+        "UFID": "100037715040C02619fb95e4f37194607",
+        "NAME": "",
+        "SERV": "OSD001",
+        "BJCD": "4313037000",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.31672510201824, 36.24748667426193]
+      },
+      "properties": {
+        "UFID": "100036714003C02611cc1a86d4f8c479e",
+        "NAME": "용촌수위관측소",
+        "SERV": "OSD001",
+        "BJCD": "3017012500",
+        "SCLS": "C0266331",
+        "FMTA": "S2115525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.7773346200726, 37.588404037726825]
+      },
+      "properties": {
+        "UFID": "100037808062C02613dc75cc7bf9a41aa",
+        "NAME": "",
+        "SERV": "OSD000",
+        "BJCD": "4215032000",
+        "SCLS": "C0266332",
+        "FMTA": "S2115025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.7076367272903, 37.0953977616018]
+      },
+      "properties": {
+        "UFID": "100037815069C0261a1f91d0a80a345ef",
+        "NAME": "하동우량관측소",
+        "SERV": "OSD000",
+        "BJCD": "4275032500",
+        "SCLS": "C0266332",
+        "FMTA": "S2115025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.74694226991163, 37.21888431791799]
+      },
+      "properties": {
+        "UFID": "100037715020C026140a1be19e5b94590",
+        "NAME": "",
+        "SERV": "OSD000",
+        "BJCD": "4167031000",
+        "SCLS": "C0266332",
+        "FMTA": "S2115025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.77634600570767, 35.27234653641214]
+      },
+      "properties": {
+        "UFID": "100035712092C02613aa6024c99e14655",
+        "NAME": "",
+        "SERV": "OSD000",
+        "BJCD": "4886036000",
+        "SCLS": "C0266332",
+        "FMTA": "S2115025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.89270995765844, 35.27013432039669]
+      },
+      "properties": {
+        "UFID": "100035712096C026133ce1e93062d476d",
+        "NAME": "태수수위우량관측소",
+        "SERV": "OSD000",
+        "BJCD": "4886037000",
+        "SCLS": "C0266332",
+        "FMTA": "S2115025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.16156550334424, 35.557669930317346]
+      },
+      "properties": {
+        "UFID": "100035805077C0261def77ba706da4c6a",
+        "NAME": "",
+        "SERV": "OSD000",
+        "BJCD": "4889041000",
+        "SCLS": "C0266332",
+        "FMTA": "S2115025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.94191392768, 35.98545552010718]
+      },
+      "properties": {
+        "UFID": "100035704008C0261f04b32ec31e043be",
+        "NAME": "",
+        "SERV": "OSD000",
+        "BJCD": "4715043000",
+        "SCLS": "C0266332",
+        "FMTA": "S2115025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.06553688332761, 34.96933550556389]
+      },
+      "properties": {
+        "UFID": "100034701013C0261e78746218dbb442d",
+        "NAME": "",
+        "SERV": "OSD000",
+        "BJCD": "4679031000",
+        "SCLS": "C0266332",
+        "FMTA": "S2115025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.78598062392103, 35.97383170562911]
+      },
+      "properties": {
+        "UFID": "100035704012C026129890d24e5b54487",
+        "NAME": "",
+        "SERV": "OSD000",
+        "BJCD": "4573032000",
+        "SCLS": "C0266332",
+        "FMTA": "S2115025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.27902671046064, 36.090958809401805]
+      },
+      "properties": {
+        "UFID": "100036714062C026153074912feb643d4",
+        "NAME": "장성강우량관축소",
+        "SERV": "OSD000",
+        "BJCD": "4571038000",
+        "SCLS": "C0266332",
+        "FMTA": "S2115025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.94371633859348, 35.272421886962626]
+      },
+      "properties": {
+        "UFID": "100035712098C02610a39f7d5a17a44e1",
+        "NAME": "국가지하수관측소",
+        "SERV": "OSD003",
+        "BJCD": "4886037000",
+        "SCLS": "C0266334",
+        "FMTA": "S2117753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.35835763605687, 35.527446192712674]
+      },
+      "properties": {
+        "UFID": "100035806085C026137ce14c276a74d8d",
+        "NAME": "적포수질자동측정소",
+        "SERV": "OSD003",
+        "BJCD": "4889039000",
+        "SCLS": "C0266334",
+        "FMTA": "S2117753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.49725219991979, 35.154096280585705]
+      },
+      "properties": {
+        "UFID": "100035614040C026146122e35874448e2",
+        "NAME": "국가지하수관측소",
+        "SERV": "OSD003",
+        "BJCD": "4686032000",
+        "SCLS": "C0266334",
+        "FMTA": "S2117753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.77326740499981, 33.56051704313739]
+      },
+      "properties": {
+        "UFID": "100033608031C0261f51447a39f99402b",
+        "NAME": "",
+        "SERV": "OSD004",
+        "BJCD": "5011025600",
+        "SCLS": "C0266336",
+        "FMTA": "S2114711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.76976107461864, 33.562716623469704]
+      },
+      "properties": {
+        "UFID": "100033608031C026173ab0bede75f4748",
+        "NAME": "",
+        "SERV": "OSD004",
+        "BJCD": "5011025600",
+        "SCLS": "C0266336",
+        "FMTA": "S2114711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.76566625768181, 33.562273631312756]
+      },
+      "properties": {
+        "UFID": "100033608031C02612bac5e6b9bd6480e",
+        "NAME": "",
+        "SERV": "OSD004",
+        "BJCD": "5011025600",
+        "SCLS": "C0266336",
+        "FMTA": "S2114711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.7772721237014, 33.56293318304216]
+      },
+      "properties": {
+        "UFID": "100033608032C02619a9cb3b5b5704865",
+        "NAME": "",
+        "SERV": "OSD004",
+        "BJCD": "5011025600",
+        "SCLS": "C0266336",
+        "FMTA": "S2114711"
+      }
+    }
+  ]
+}

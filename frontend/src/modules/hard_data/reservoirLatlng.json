@@ -1,0 +1,234 @@
+[
+  {
+    "reservoirId": "4682010160",
+    "reservoirName": "가학",
+    "reservoirStaticCode": "1970001722",
+    "reservoirType": "저수지",
+    "reservoirSourceType": "주",
+    "admin": "공사",
+    "eupMyeonDong": "계곡면",
+    "li": "가학리",
+    "lotNumber": "311 천",
+    "builtYear": "1970",
+    "buildStructure": "필댐(죤형)",
+    "height": 20.3,
+    "width": 284,
+    "latlng": [34.66015579, 126.5995926],
+    "geometryPoint": {
+      "type": "Buffer",
+      "data": [
+        48, 49, 48, 49, 48, 48, 48, 48, 48, 48, 65, 48, 52, 48, 49, 65, 57, 70,
+        48, 55, 69, 70, 48, 51, 52, 49, 67, 48, 53, 50, 57, 69, 69, 54, 68, 50,
+        48, 50, 48, 67, 52, 49
+      ]
+    },
+    "facilityCode": "RV_296",
+    "benfittedArea": 207.6,
+    "permissibleArea": 207.6,
+    "drainageArea": 460,
+    "fullWaterArea": 14.1,
+    "usableWaterAmount": 910,
+    "currentWaterRate": null,
+    "isForTest": false
+  },
+  {
+    "reservoirId": "4682010117",
+    "reservoirName": "동해",
+    "reservoirStaticCode": "1999000399",
+    "reservoirType": "저수지",
+    "reservoirSourceType": "주",
+    "admin": "공사",
+    "eupMyeonDong": "북평면",
+    "li": "동해리",
+    "lotNumber": "산 38 유",
+    "builtYear": "1999",
+    "buildStructure": "필댐(죤형)",
+    "height": 46.7,
+    "width": 562,
+    "latlng": [34.44188074, 126.6399461],
+    "geometryPoint": {
+      "type": "Buffer",
+      "data": [
+        48, 49, 48, 49, 48, 48, 48, 48, 48, 48, 50, 48, 70, 56, 49, 53, 51, 48,
+        69, 68, 53, 70, 48, 52, 52, 49, 52, 48, 54, 55, 57, 67, 65, 69, 66, 51,
+        48, 68, 48, 57, 52, 49
+      ]
+    },
+    "facilityCode": "RV_298",
+    "benfittedArea": 203.3,
+    "permissibleArea": 203.3,
+    "drainageArea": 400,
+    "fullWaterArea": 10.9,
+    "usableWaterAmount": 1522.28,
+    "currentWaterRate": null,
+    "isForTest": false
+  },
+
+  {
+    "reservoirId": "4682010373",
+    "reservoirName": "신방",
+    "reservoirStaticCode": "1950000309",
+    "reservoirType": "저수지",
+    "reservoirSourceType": "보조",
+    "admin": "공사",
+    "eupMyeonDong": "현산면",
+    "li": "백포리",
+    "lotNumber": "777유",
+    "builtYear": "1952",
+    "buildStructure": "필댐(죤형)",
+    "height": 3,
+    "width": 1527,
+    "latlng": [34.43300934, 126.5249],
+    "geometryPoint": {
+      "type": "Buffer",
+      "data": [
+        48, 49, 48, 49, 48, 48, 48, 48, 48, 48, 52, 48, 66, 51, 57, 54, 50, 65,
+        53, 69, 49, 53, 48, 51, 52, 49, 48, 48, 53, 68, 55, 54, 54, 51, 52, 70,
+        70, 48, 48, 56, 52, 49
+      ]
+    },
+    "facilityCode": "RV_338",
+    "benfittedArea": 111,
+    "permissibleArea": 111,
+    "drainageArea": 164,
+    "fullWaterArea": 59.42,
+    "usableWaterAmount": 747.38,
+    "currentWaterRate": null,
+    "className": "",
+    "isForTest": true
+  },
+
+  {
+    "reservoirId": "4682010050",
+    "reservoirName": "연화",
+    "reservoirStaticCode": "1961000264",
+    "reservoirType": "저수지",
+    "reservoirSourceType": "주",
+    "admin": "공사",
+    "eupMyeonDong": "화산면",
+    "li": "방축리",
+    "lotNumber": "226유",
+    "builtYear": "1961",
+    "buildStructure": "필댐(죤형)",
+    "height": 12,
+    "width": 340,
+    "latlng": [34.4976359, 126.5149238],
+    "geometryPoint": {
+      "type": "Buffer",
+      "data": [
+        48, 49, 48, 49, 48, 48, 48, 48, 48, 48, 52, 48, 49, 51, 55, 51, 52, 50,
+        67, 57, 70, 57, 48, 50, 52, 49, 67, 48, 67, 68, 51, 53, 56, 51, 55, 66,
+        68, 48, 48, 57, 52, 49
+      ]
+    },
+    "facilityCode": "RV_334",
+    "benfittedArea": 392.4,
+    "permissibleArea": 392.4,
+    "drainageArea": 490,
+    "fullWaterArea": 26.7,
+    "usableWaterAmount": 1238.33,
+    "currentWaterRate": null,
+    "className": "",
+    "isForTest": false
+  },
+
+
+  {
+    "reservoirId": "4682010098",
+    "reservoirName": "해원",
+    "reservoirStaticCode": "1945007938",
+    "reservoirType": "저수지",
+    "reservoirSourceType": "주",
+    "admin": "공사",
+    "eupMyeonDong": "송지면",
+    "li": "마봉리",
+    "lotNumber": "1136유",
+    "builtYear": "1945",
+    "buildStructure": "필댐(죤형)",
+    "height": 15.6,
+    "width": 134,
+    "latlng": [34.37431934, 126.5359155],
+    "geometryPoint": {
+      "type": "Buffer",
+      "data": [
+        48, 49, 48, 49, 48, 48, 48, 48, 48, 48, 67, 48, 55, 55, 57, 67, 65, 50,
+        49, 51, 51, 52, 48, 51, 52, 49, 52, 48, 68, 67, 52, 54, 56, 51, 66, 53,
+        50, 52, 48, 56, 52, 49
+      ]
+    },
+    "facilityCode": "RV_341",
+    "benfittedArea": 341.5,
+    "permissibleArea": 341.5,
+    "drainageArea": 908,
+    "fullWaterArea": 35.3,
+    "usableWaterAmount": 1621.48,
+    "currentWaterRate": null,
+    "className": "",
+    "isForTest": false
+  },
+  {
+    "reservoirId": "4682000053",
+    "reservoirName": "구산",
+    "reservoirStaticCode": "1945007923",
+    "reservoirType": "저수지",
+    "reservoirSourceType": "주",
+    "admin": "시군",
+    "eupMyeonDong": "현산면",
+    "li": "조산리",
+    "lotNumber": "136답",
+    "builtYear": "1945",
+    "buildStructure": "토언제균일형",
+    "height": 10,
+    "width": 103,
+    "latlng": [34.42534704, 126.6016514],
+    "geometryPoint": {
+      "type": "Buffer",
+      "data": [
+        48, 49, 48, 49, 48, 48, 48, 48, 48, 48, 54, 48, 51, 69, 69, 56, 68, 57,
+        66, 55, 70, 49, 48, 51, 52, 49, 48, 48, 53, 66, 52, 50, 51, 69, 67, 67,
+        68, 52, 48, 56, 52, 49
+      ]
+    },
+    "facilityCode": "RV_211",
+    "benfittedArea": 22,
+    "permissibleArea": 42,
+    "drainageArea": 78,
+    "fullWaterArea": 3.6,
+    "usableWaterAmount": 102,
+    "currentWaterRate": null,
+    "className": "",
+    "isForTest": true
+  },
+
+  {
+    "reservoirId": "4682010067",
+    "reservoirName": "구시",
+    "reservoirStaticCode": null,
+    "reservoirType": "저수지",
+    "reservoirSourceType": "주",
+    "admin": "시군",
+    "eupMyeonDong": "현산면",
+    "li": "구시리",
+    "lotNumber": null,
+    "builtYear": "1963",
+    "buildStructure": "토언제균일형",
+    "height": 0,
+    "width": 0,
+    "latlng": [0, 0],
+    "geometryPoint": {
+      "type": "Buffer",
+      "data": [
+     
+      ]
+    },
+    "facilityCode": null,
+    "benfittedArea": 0,
+    "permissibleArea": 0,
+    "drainageArea": 21,
+    "fullWaterArea": 0,
+    "usableWaterAmount": 910,
+    "currentWaterRate": null,
+    "className": "",
+    "isForTest": true
+  }
+]

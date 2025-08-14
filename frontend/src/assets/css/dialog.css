@@ -1,0 +1,75 @@
+/* 일정 */
+.calendar-container {
+  /* background-color: lightblue; */
+  border-radius: 8px;
+  font-family: "NotoSansKR-Regular";
+  width: 500px;
+}
+
+.calendar-header {
+  font-family: "NotoSansKR-Medium";
+  font-size: 20px;
+}
+
+.calendar-body {
+  color: #db3131;
+}
+
+.fc-day-sun,
+.fc-day-sat {
+  background-color: #f4f4f4;
+}
+
+.fc-day-sun {
+  color: red;
+}
+
+.fc-day-sat {
+  color: blue;
+}
+
+.fc-scrollgrid-section-header {
+  background-color: #f4f4f4;
+}
+
+.el-date-picker {
+  font-family: "NotoSansKR-Regular";
+}
+
+.el-button {
+  font-family: "NotoSansKR-Regular";
+}
+
+/* .fc-h-event .fc-event-main {
+  color: #fff;
+} */
+
+.fc-event-title {
+  color: black;
+}
+
+.calendar-info-detail {
+  font-family: "NotoSansKR-Regular";
+  width: 100%;
+  text-align: center;
+}
+
+.calendar-info-detail > div > div {
+  padding: 5px;
+  text-align: center;
+}
+
+.calendar-info-detail > div:nth-child(odd) {
+  background-color: #f4f4f4;
+}
+
+/* .calendar-info-detail > div > div:nth-child(1) {
+  width: 80px;
+  background-color: #f4f4f4;
+  font-family: "NotoSansKR-Medium";
+  border-right: 1px solid #ebebeb;
+} */
+
+.calendar-info-detail > div {
+  border: 1px solid #ebebeb;
+}
